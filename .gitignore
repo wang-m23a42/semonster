@@ -1,0 +1,6 @@
+# すべての.classファイルを無視
+*.class
+# .vscodeディレクトリを無視
+.vscode/
+# binディレクトリを無視
+bin/
